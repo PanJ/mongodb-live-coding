@@ -6,6 +6,7 @@ A REST API for students enrollment. You will also learn how to use
 - Postman
 - Mongoose
 - Express.js
+- async/await
 
 ## API Endpoints
 > GET /students
