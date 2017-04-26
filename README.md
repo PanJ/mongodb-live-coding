@@ -17,22 +17,14 @@ List all students
 
 Add new student
 
-> GET /students/:id
-
-Get specified student detail, along with GPA
-
 > DELETE /students/:id
 
 Delete specified student
 
-> POST /courses/:id/enroll/:studentId
+> POST /courses/:id/enroll
 
-Enroll student to specified course (Can be enrolled once only)
+Enroll student to specified course and give the student a grade (Can be enrolled once only)
 
-> POST /courses/:id/graded/:studentId
-
-Give the student a grade (The student must be enrolled and has not been graded before)
-
-> POST /courses/:id
+> GET /courses/:id
 
 Get course detail, along with enrolled students count and class average GPA
