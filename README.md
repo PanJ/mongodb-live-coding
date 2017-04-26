@@ -2,7 +2,10 @@
 April 27, 2017 at Faculty of Engineering, Chulalongkorn University
 
 ## Overview
-A REST API for students enrollment
+A REST API for students enrollment. You will also learn how to use
+- Postman
+- Mongoose
+- Express.js
 
 ## API Endpoints
 > GET /students
