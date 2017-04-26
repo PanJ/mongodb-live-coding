@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-live-coding",
+  "version": "1.0.0",
+  "description": "April 27, 2017 at Faculty of Engineering, Chulalongkorn University",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanJ/mongodb-live-coding.git"
+  },
+  "author": "PanJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanJ/mongodb-live-coding/issues"
+  },
+  "homepage": "https://github.com/PanJ/mongodb-live-coding#readme"
+}
